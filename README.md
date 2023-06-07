@@ -12,7 +12,7 @@ Hello, this project is very simple, everyone can understand it.
     -Javascript (js)
 
 ## Some pictures of our project 
-![Refernce images](../landing%20page/landing%20page/images/light%20theme.PNG)
+![Refernce images](./landing%20page/images/light%20theme.PNG)
  *Picture1: light theme
 
 
